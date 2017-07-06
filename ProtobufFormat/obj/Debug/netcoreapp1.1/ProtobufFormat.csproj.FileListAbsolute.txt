@@ -1,0 +1,9 @@
+D:\visual studio 2017\Projects\ProtobufFormat\ProtobufFormat\bin\Debug\netcoreapp1.1\ProtobufFormat.deps.json
+D:\visual studio 2017\Projects\ProtobufFormat\ProtobufFormat\bin\Debug\netcoreapp1.1\ProtobufFormat.runtimeconfig.json
+D:\visual studio 2017\Projects\ProtobufFormat\ProtobufFormat\bin\Debug\netcoreapp1.1\ProtobufFormat.runtimeconfig.dev.json
+D:\visual studio 2017\Projects\ProtobufFormat\ProtobufFormat\bin\Debug\netcoreapp1.1\ProtobufFormat.dll
+D:\visual studio 2017\Projects\ProtobufFormat\ProtobufFormat\obj\Debug\netcoreapp1.1\ProtobufFormat.AssemblyInfo.cs
+D:\visual studio 2017\Projects\ProtobufFormat\ProtobufFormat\bin\Debug\netcoreapp1.1\ProtobufFormat.pdb
+D:\visual studio 2017\Projects\ProtobufFormat\ProtobufFormat\obj\Debug\netcoreapp1.1\ProtobufFormat.csprojResolveAssemblyReference.cache
+D:\visual studio 2017\Projects\ProtobufFormat\ProtobufFormat\obj\Debug\netcoreapp1.1\ProtobufFormat.dll
+D:\visual studio 2017\Projects\ProtobufFormat\ProtobufFormat\obj\Debug\netcoreapp1.1\ProtobufFormat.pdb
